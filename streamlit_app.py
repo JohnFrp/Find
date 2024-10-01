@@ -30,7 +30,7 @@ def main():
             else:
                 st.write(f"{word_length} Letters Word is not Found.")
         else:
-            st.write("Please input some text.")
+            st.write("Please Input some text.")
 
     footer = """
         <style>
